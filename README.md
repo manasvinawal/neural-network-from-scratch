@@ -6,7 +6,7 @@ Demonstrates a full understanding of backpropagation, gradient flow, and optimiz
 
 **Goal**: Understand the internals of neural networks by building every component manually.
 
-Inspired by *Neural Networks from Scratch* by Sentdex (Harrison Kinsley)
+This project was inspired by the book **[Neural Networks from Scratch](https://nnfs.io)** by **[Harrison Kinsley (Sentdex)](https://sentdex.com)** and Daniel Kukieła.
 
 ## Results
 
