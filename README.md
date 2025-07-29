@@ -1,4 +1,4 @@
-# 🧠 Neural Network from Scratch (NumPy)
+# Neural Network from Scratch (purely using NumPy)
 
 A neural network built **from the ground up using only NumPy**  (no PyTorch, no TensorFlow)
 
@@ -12,6 +12,6 @@ Inspired by *Neural Networks from Scratch* by Sentdex (Harrison Kinsley)
 
 **96%+ accuracy** on a non-linear spiral dataset  
 Full training loop with loss and accuracy tracking  
-Manual gradient computation — no autograd
+Manual gradient computation, no autograd
 
 This proves the network **actually learns**, not just compiles.
